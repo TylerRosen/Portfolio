@@ -25,10 +25,6 @@
     content: "\e000";
 }
 
-.icon-paper-clip:before {
-    content: "\e001";
-}
-
 .icon-mail:before {
     content: "\e002";
 }
