@@ -2054,11 +2054,11 @@
 }
 
 .icon-twitter-with-circle:before {
-    content: "\ea7b";
+    content: "\eab0";
 }
 
-.icon-twitter:before {
-    content: "\ea7c";
+.icon-github2:before {
+  content: "\eab0";
 }
 
 .icon-vimeo-with-circle:before {
