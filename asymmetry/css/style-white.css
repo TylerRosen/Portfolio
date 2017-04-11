@@ -126,9 +126,19 @@ figure {
     position: relative;
 }
 
+.buttons {
+    position: fixed;
+    left: 10px; 
+}
+
 @media screen and (max-width: 768px) {
     .gtco-nav {
         padding: 20px 0;
+    }
+
+    .buttons {
+        position: fixed;
+        left: 260px;
     }
 }
 
