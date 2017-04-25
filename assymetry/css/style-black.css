@@ -64,6 +64,8 @@ a:focus {
 
 p {
     margin-bottom: 20px;
+    padding: 9px;
+    margin-left: -12px;
 }
 
 h1,
@@ -85,6 +87,7 @@ figure {
     display: inline-block;
     width: 60px;
     height: 34px;
+    margin-top: -11px;
 }
 
 .switch input {
@@ -110,17 +113,17 @@ figure {
     width: 26px;
     left: 4px;
     bottom: 4px;
-    background-color: white;
+    background-color: black;
     -webkit-transition: .4s;
     transition: .4s;
 }
 
 input:checked+.slider {
-    background-color: #2196F3;
+    background-color: red;
 }
 
 input:focus+.slider {
-    box-shadow: 0 0 1px #2196F3;
+    box-shadow: 0 0 1px red;
 }
 
 input:checked+.slider:before {
