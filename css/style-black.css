@@ -196,6 +196,16 @@ input:checked+.slider:before {
     left: 10px;
 }
 
+.projects {
+    text-align: center;
+    color: white;
+}
+
+.github,
+.heroku {
+    margin-left: 69px;
+}
+
 @media screen and (max-width: 768px) {
     .gtco-nav {
         padding: 20px 0;

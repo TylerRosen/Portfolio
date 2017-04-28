@@ -78,15 +78,8 @@
     $('.switch input[type=checkbox]').click(function(event) {
         if ($(this).prop('checked') === true) {
             $('#theme').attr('href', 'css/style-black.css');
-            // $('#javascript').attr('src', 'images/icons/javascript-black.png');
-            // $('#mongo').attr('src', 'images/icons/mongodb-black.png');
-            // $('#git').attr('src', 'images/icons/git-black.png');
-
         } else {
             $('#theme').attr('href', 'css/style-white.css');
-            // $('#javascript').attr('src', 'images/icons/javascript.png');
-            // $('#mongo').attr('src', 'images/icons/mongodb.png');
-            // $('#git').attr('src', 'images/icons/git.png');
         }
     });
 
