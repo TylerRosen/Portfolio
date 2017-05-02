@@ -401,6 +401,10 @@ input:checked+.slider:before {
     border: 1px solid white;
 }
 
+.space {
+    visibility: hidden;
+}
+
 @media screen and (max-width: 480px) {
     #gtco-header .text-left {
         text-align: center !important;
