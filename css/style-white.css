@@ -191,6 +191,13 @@ input:checked+.slider:before {
     position: relative;
 }
 
+.portrait {
+    height: 154px;
+    width: 154px;
+    border-radius: 50%;
+    border-color: white;
+}
+
 .buttons {
     position: fixed;
     left: 10px;

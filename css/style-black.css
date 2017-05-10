@@ -191,6 +191,40 @@ input:checked+.slider:before {
     position: relative;
 }
 
+
+/*.pv-top-card-section__photo-wrapper {
+    background-color: #26282a;
+    border: 4px solid #fff;
+    box-sizing: content-box;
+    margin: auto;
+    position: relative;
+}
+
+.ge-member-top-card__photo-wrapper,
+.pv-top-card-section__photo-wrapper {
+    box-shadow: inset 0 1.5px 3px 0 rgba(0, 0, 0, .15), 0 1.5px 3px 0 rgba(0, 0, 0, .15);
+}
+
+.EntityPhoto-circle-8 {
+    width: 128px;
+    height: 128px;
+    box-sizing: border-box;
+    background-clip: content-box;
+    border: 0 solid transparent;
+    border-radius: 49.9%;
+}
+
+.profile-photo-edit__preview {
+    border-radius: 50%;
+}*/
+
+.portrait {
+    height: 154px;
+    width: 154px;
+    border-radius: 50%;
+    border-color: white;
+}
+
 .buttons {
     position: fixed;
     left: 10px;
