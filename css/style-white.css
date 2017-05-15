@@ -199,6 +199,10 @@ input:checked+.slider:before {
     border-color: white;
 }
 
+ul {
+    list-style: none;
+}
+
 .buttons {
     position: fixed;
     left: 10px;
