@@ -1529,7 +1529,7 @@ form label {
     outline: none !important;
 }
 
-.btn-primary {
+.btn-primary, .github, .heroku {
     background: #FF5126;
     color: #fff;
     border: 2px solid #FF5126 !important;
